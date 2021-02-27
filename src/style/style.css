@@ -28,7 +28,7 @@ body {
   font-size: 0;
   overflow: hidden;
 }
-.player:fullscreen {
+.fullscreen {
   max-width: none;
   width: 100%;
 }
